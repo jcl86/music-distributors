@@ -29,7 +29,7 @@ También tenemos distribuidoras gratuitas. La principal contrapartida es que se 
 
 ### [Indiefy](https://indiefy.net/)
 
-- Tiene un pla gratuito, con el que puedes lanzar 3 canciones por mes. 
+- Tiene un plan gratuito, con el que puedes lanzar 3 canciones por mes. 
 - Se queda con el 15% de los ingresos
 - Distribución en 7 plataformas de streaming 
 
